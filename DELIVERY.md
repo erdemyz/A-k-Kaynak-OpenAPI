@@ -13,7 +13,7 @@
 - Swagger Editor (https://editor.swagger.io) kullanılarak tüm endpoint’ler test edilmiştir ve `No errors` sonucu alınmıştır.
 
 ### 🔗 GitHub Repo Linki
-https://github.com/erdemyz/A-k-Kaynak-OpenAPI/upload/main
+https://github.com/erdemyz/A-k-Kaynak-OpenAPI
 
 ---
 
